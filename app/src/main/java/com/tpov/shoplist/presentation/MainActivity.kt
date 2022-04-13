@@ -1,7 +1,8 @@
-package com.tpov.shoplist
+package com.tpov.shoplist.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.tpov.shoplist.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
