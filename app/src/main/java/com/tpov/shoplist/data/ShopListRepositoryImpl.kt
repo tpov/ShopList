@@ -1,4 +1,4 @@
-package com.sumin.shoppinglist.data
+package com.tpov.shoplist.data
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
